@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话，换个角度聊文献。</description><language>zh-cn</language><lastBuildDate>Thu, 11 Jun 2026 05:01:13 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>owner@example.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>眼睛不是叶子，为什么角膜还能“用光” 第273期</title><description>## 一句话总结
+眼睛每天都在接收光，但通常只是“看见光”。
+## 核心要点
+1. 证据链应按 `细胞实验 -&gt; 离体/局部组织 -&gt; 小鼠模型` 讲，不得跳成临床。
+2. 最大未解问题是长期安全性、免疫反应、光照剂量、递送方式和人体有效性。
+3. 落点不是“人类超能力”，而是“跨物种生物机器能不能成为新的医学工具”。这期的价值是把想象力和边界一起讲清楚。
+4. 1. 当前证据仍是细胞、组织和动物层面，不是人体临床疗法。
+5. 4. 光照剂量是关键变量，过强或长期照射可能带来光毒性。
+## 引用文献
+- Transplanting light-dependent reactions for mammalian eye photosynthesis https://doi.org/10.1016/j.cell.2026.04.034
+- A plant-derived natural photosynthetic system for improving cell anabolism https://doi.org/10.1038/s41586-022-05499-y
+- Mouse eyes photosynthesize after plant-to-animal transplant https://www.nature.com/articles/d41586-026-01559-9
+- Cell membrane-encased thylakoid as white light triggered PDT therapy for facile and targeted choroidal melanoma treatment https://doi.org/10.1016/j.bioactmat.2026.03.058
+## 免责声明
+&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</description><content:encoded>## 一句话总结
+眼睛每天都在接收光，但通常只是“看见光”。
+## 核心要点
+1. 证据链应按 `细胞实验 -&gt; 离体/局部组织 -&gt; 小鼠模型` 讲，不得跳成临床。
+2. 最大未解问题是长期安全性、免疫反应、光照剂量、递送方式和人体有效性。
+3. 落点不是“人类超能力”，而是“跨物种生物机器能不能成为新的医学工具”。这期的价值是把想象力和边界一起讲清楚。
+4. 1. 当前证据仍是细胞、组织和动物层面，不是人体临床疗法。
+5. 4. 光照剂量是关键变量，过强或长期照射可能带来光毒性。
+## 引用文献
+- Transplanting light-dependent reactions for mammalian eye photosynthesis https://doi.org/10.1016/j.cell.2026.04.034
+- A plant-derived natural photosynthetic system for improving cell anabolism https://doi.org/10.1038/s41586-022-05499-y
+- Mouse eyes photosynthesize after plant-to-animal transplant https://www.nature.com/articles/d41586-026-01559-9
+- Cell membrane-encased thylakoid as white light triggered PDT therapy for facile and targeted choroidal melanoma treatment https://doi.org/10.1016/j.bioactmat.2026.03.058
+## 免责声明
+&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</content:encoded><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-273</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a" length="10718462" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>273</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png"></itunes:image></item></channel></rss>
