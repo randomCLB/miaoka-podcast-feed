@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-06-11T06:59:07+00:00",
+  "generated_at": "2026-06-11T07:31:31+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
   "stage_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public",
   "episodes": [
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11",
+      "episode_number": "238",
+      "title": "第238期：AI 能提前发现阿尔茨海默病吗？",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/episode_238_alzheimer_ai_diagnosis.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/cover_3000x3000.jpg",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/rss_upload_notes.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-cover.jpg",
+      "audio_bytes": 3187916,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-238/ep238-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-238/ep238-cover.jpg"
+      ]
+    },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23",
       "episode_number": "273",
@@ -24,6 +40,12 @@
   ],
   "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
   "registered_episodes": [
+    {
+      "episode_number": "238",
+      "title": "第238期：AI 能提前发现阿尔茨海默病吗？",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11",
+      "added_at": "2026-06-11T07:31:31+00:00"
+    },
     {
       "episode_number": "273",
       "title": "眼睛不是叶子，为什么角膜还能“用光” 第273期",
