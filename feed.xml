@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话，换个角度聊文献。</description><language>zh-cn</language><lastBuildDate>Thu, 11 Jun 2026 07:31:31 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话，换个角度聊文献。</description><language>zh-cn</language><lastBuildDate>Sat, 13 Jun 2026 03:13:43 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
 提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</description><content:encoded>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
@@ -31,4 +31,26 @@
 - Mouse eyes photosynthesize after plant-to-animal transplant https://www.nature.com/articles/d41586-026-01559-9
 - Cell membrane-encased thylakoid as white light triggered PDT therapy for facile and targeted choroidal melanoma treatment https://doi.org/10.1016/j.bioactmat.2026.03.058
 ## 免责声明
-&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</content:encoded><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-273</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a" length="10718462" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>273</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png"></itunes:image></item></channel></rss>
+&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</content:encoded><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-273</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a" length="10718462" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>273</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png"></itunes:image></item><item><title>胰腺癌RAS靶向药daraxonrasib三期更新 第277+期</title><description>## 一句话总结
+胰腺癌RAS靶向药三期改写二线坐标。
+## 核心要点
+1. RASolute 302 三期结果已在二零二六年 ASCO 全体大会公布，并同步发表于《新英格兰医学杂志》。
+2. 在既往治疗后的转移性胰腺导管腺癌中，daraxonrasib 将中位总生存期从 6.7 个月推到 13.2 个月，死亡风险相对下降约 60%。
+3. PFS 和 ORR 也支持同一方向：疾病不进展时间约 7.2 到 7.3 个月，对照约 3.5 到 3.6 个月；缓解率约三成，对照约一成。
+4. 这类 RAS(ON) 多选择性三元复合物抑制剂的意义，不只是“又一个靶向药”，而是把直接打主流 RAS 突变推进到更硬的随机三期证据。
+5. 展望可以看向结直肠癌、非小细胞肺癌和胆道肿瘤，但不同癌种、突变亚型、组织环境、耐药和联合方案都要重新验证；突破性疗法认定也不等于已经获批上市。
+## 引用文献
+- Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2605555
+- Revolution Medicines Announces ASCO Plenary Presentation Highlighting Unprecedented Results from Pivotal Phase 3 RASolute 302 Clinical Trial。Company press release / ASCO plenary data，2026 https://ir.revmed.com/node/13046/pdf
+- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c</description><content:encoded>## 一句话总结
+胰腺癌RAS靶向药三期改写二线坐标。
+## 核心要点
+1. RASolute 302 三期结果已在二零二六年 ASCO 全体大会公布，并同步发表于《新英格兰医学杂志》。
+2. 在既往治疗后的转移性胰腺导管腺癌中，daraxonrasib 将中位总生存期从 6.7 个月推到 13.2 个月，死亡风险相对下降约 60%。
+3. PFS 和 ORR 也支持同一方向：疾病不进展时间约 7.2 到 7.3 个月，对照约 3.5 到 3.6 个月；缓解率约三成，对照约一成。
+4. 这类 RAS(ON) 多选择性三元复合物抑制剂的意义，不只是“又一个靶向药”，而是把直接打主流 RAS 突变推进到更硬的随机三期证据。
+5. 展望可以看向结直肠癌、非小细胞肺癌和胆道肿瘤，但不同癌种、突变亚型、组织环境、耐药和联合方案都要重新验证；突破性疗法认定也不等于已经获批上市。
+## 引用文献
+- Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2605555
+- Revolution Medicines Announces ASCO Plenary Presentation Highlighting Unprecedented Results from Pivotal Phase 3 RASolute 302 Clinical Trial。Company press release / ASCO plenary data，2026 https://ir.revmed.com/node/13046/pdf
+- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c</content:encoded><pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-277-plus</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a" length="10592527" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>277</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.png"></itunes:image></item></channel></rss>

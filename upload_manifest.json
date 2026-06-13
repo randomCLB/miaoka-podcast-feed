@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T07:31:31+00:00",
+  "generated_at": "2026-06-13T03:13:43+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -36,6 +36,22 @@
         "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-273/ep273-audio.m4a",
         "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-273/ep273-cover.png"
       ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08",
+      "episode_number": "277+",
+      "title": "胰腺癌RAS靶向药daraxonrasib三期更新 第277+期",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/07_deliver/音频——胰腺癌RAS靶向药daraxonrasib三期更新.m4a",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/07_deliver/封面——胰腺癌RAS靶向药daraxonrasib三期更新.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/07_deliver/公众号——胰腺癌RAS靶向药daraxonrasib三期更新.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.png",
+      "audio_bytes": 10592527,
+      "audio_type": "audio/mp4",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-277-plus/ep277-plus-audio.m4a",
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-277-plus/ep277-plus-cover.png"
+      ]
     }
   ],
   "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
@@ -51,6 +67,12 @@
       "title": "眼睛不是叶子，为什么角膜还能“用光” 第273期",
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23",
       "added_at": "2026-06-11T06:59:07+00:00"
+    },
+    {
+      "episode_number": "277+",
+      "title": "胰腺癌RAS靶向药daraxonrasib三期更新 第277+期",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08",
+      "added_at": "2026-06-13T03:13:43+00:00"
     }
   ]
 }
