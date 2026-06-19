@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T05:50:52+00:00",
+  "generated_at": "2026-06-19T02:27:10+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -52,6 +52,22 @@
         "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-277-plus/ep277-plus-audio.m4a",
         "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-277-plus/ep277-plus-cover.jpg"
       ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13",
+      "episode_number": "285",
+      "title": "迟到的新冠药，换了一个战场 第285期",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/音频——第285期_ensitrelvir暴露后预防COVID.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/封面——第285期_ensitrelvir暴露后预防COVID.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/公众号——第285期_ensitrelvir暴露后预防COVID.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-cover.png",
+      "audio_bytes": 5606963,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-285/ep285-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-285/ep285-cover.png"
+      ]
     }
   ],
   "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
@@ -76,6 +92,12 @@
       "asset_overrides": {
         "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/00_qc/xiaoyuzhou_cover_277_plus.jpg"
       }
+    },
+    {
+      "episode_number": "285",
+      "title": "迟到的新冠药，换了一个战场 第285期",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13",
+      "added_at": "2026-06-19T02:27:10+00:00"
     }
   ]
 }
