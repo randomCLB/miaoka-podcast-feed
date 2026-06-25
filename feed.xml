@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话，换个角度聊文献。</description><language>zh-cn</language><lastBuildDate>Mon, 22 Jun 2026 16:51:00 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话，换个角度聊文献。</description><language>zh-cn</language><lastBuildDate>Thu, 25 Jun 2026 14:00:49 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
 提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</description><content:encoded>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
@@ -97,4 +97,28 @@ iPSC细胞疗法进入人体早期验证。
 5. 这是真正有节目价值的“首次”：不是 iPSC 第一次进眼睛，而是 iPSC 衍生细胞疗法首次临床测试 primary photoreceptor diseases，目标细胞是光感受器前体细胞。
 ## 引用文献
 - A Study to Investigate the Safety of OpCT-001 in Adults Who Have Primary Photoreceptor Disease (CLARICO)。ClinicalTrials.gov，2025 https://clinicaltrials.gov/study/NCT06789445
-- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou</content:encoded><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-286</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3" length="5516171" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>286</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png"></itunes:image></item></channel></rss>
+- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou</content:encoded><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-286</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3" length="5516171" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>286</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png"></itunes:image></item><item><title>镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期</title><description>## 一句话总结
+镰状细胞病迎来强信号。
+## 核心要点
+1. 这项RUBY研究看的是严重镰状细胞病患者，不是普通贫血，也不是所有血液病都适用。
+2. 研究结果很抓人：接受输注的28人里，27人在观察期没有再发生血管闭塞事件；但中位随访是9.5个月，不是每个人都有完整两年数据。
+3. reni-cel不是体内打一针改基因，而是取出自体造血干细胞，体外用CRISPR-Cas12a编辑，再经过busulfan清髓后回输。
+4. 它的核心思路不是把镰状突变原样修回去，而是编辑HBG1/HBG2启动子里的BCL11A结合位点，重新打开胎儿血红蛋白程序。
+5. 胎儿血红蛋白能减少红细胞镰状化，所以血管堵塞和疼痛危象减少有明确生物学逻辑；但这仍是复杂疗法，临床开发、长期安全性和可及性都还要继续看。
+## 引用文献
+- CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat Sickle Cell Disease。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2415550
+- PubMed record PMID 41931047。PubMed / NCBI，2026 https://pubmed.ncbi.nlm.nih.gov/41931047/
+- RUBY trial NCT04853576。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT04853576
+- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient</description><content:encoded>## 一句话总结
+镰状细胞病迎来强信号。
+## 核心要点
+1. 这项RUBY研究看的是严重镰状细胞病患者，不是普通贫血，也不是所有血液病都适用。
+2. 研究结果很抓人：接受输注的28人里，27人在观察期没有再发生血管闭塞事件；但中位随访是9.5个月，不是每个人都有完整两年数据。
+3. reni-cel不是体内打一针改基因，而是取出自体造血干细胞，体外用CRISPR-Cas12a编辑，再经过busulfan清髓后回输。
+4. 它的核心思路不是把镰状突变原样修回去，而是编辑HBG1/HBG2启动子里的BCL11A结合位点，重新打开胎儿血红蛋白程序。
+5. 胎儿血红蛋白能减少红细胞镰状化，所以血管堵塞和疼痛危象减少有明确生物学逻辑；但这仍是复杂疗法，临床开发、长期安全性和可及性都还要继续看。
+## 引用文献
+- CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat Sickle Cell Disease。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2415550
+- PubMed record PMID 41931047。PubMed / NCBI，2026 https://pubmed.ncbi.nlm.nih.gov/41931047/
+- RUBY trial NCT04853576。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT04853576
+- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient</content:encoded><pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-287</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3" length="4294547" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>287</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png"></itunes:image></item></channel></rss>

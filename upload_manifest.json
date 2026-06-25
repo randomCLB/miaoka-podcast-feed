@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T16:51:00+00:00",
+  "generated_at": "2026-06-25T14:00:49+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -84,6 +84,22 @@
         "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-286/ep286-audio.mp3",
         "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-286/ep286-cover.png"
       ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24",
+      "episode_number": "287",
+      "title": "镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/音频——第287期_episode287renicelcas12asickle.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/封面——第287期_episode287renicelcas12asickle.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/公众号——第287期_episode287renicelcas12asickle.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png",
+      "audio_bytes": 4294547,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-287/ep287-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-287/ep287-cover.png"
+      ]
     }
   ],
   "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
@@ -120,6 +136,12 @@
       "title": "iPSC干细胞首次进入人体替换视网膜感光细胞 第286期",
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19",
       "added_at": "2026-06-22T16:51:00+00:00"
+    },
+    {
+      "episode_number": "287",
+      "title": "镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24",
+      "added_at": "2026-06-25T14:00:49+00:00"
     }
   ]
 }
