@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T08:16:07+00:00",
+  "generated_at": "2026-07-02T16:00:31+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -115,6 +115,22 @@
       "copied_files": [
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3",
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-cover.png"
+      ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits",
+      "episode_number": "290",
+      "title": "episode290smartwatch 第290期",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/音频——第290期_episode290smartwatch.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/封面——第290期_episode290smartwatch.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/公众号——第290期_episode290smartwatch.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-cover.png",
+      "audio_bytes": 6076799,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-cover.png"
       ]
     }
   ],
