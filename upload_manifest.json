@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T16:00:31+00:00",
+  "generated_at": "2026-07-05T18:07:18+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -132,6 +132,22 @@
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg"
       ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03",
+      "episode_number": "291",
+      "title": "全球首个生物工程肝脏临床试验成功 第291期",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/音频——第291期_全球首个生物工程肝脏临床试验成功.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/封面——第291期_全球首个生物工程肝脏临床试验成功.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/公众号——第291期_全球首个生物工程肝脏临床试验成功.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-cover.png",
+      "audio_bytes": 6847595,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "miaoka-podcast-feed/media/episode-291/ep291-audio.mp3",
+        "miaoka-podcast-feed/media/episode-291/ep291-cover.png"
+      ]
     }
   ],
   "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
@@ -174,6 +190,12 @@
       "title": "镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期",
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24",
       "added_at": "2026-06-25T14:00:49+00:00"
+    },
+    {
+      "episode_number": "291",
+      "title": "全球首个生物工程肝脏临床试验成功 第291期",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03",
+      "added_at": "2026-07-05T18:07:18+00:00"
     }
   ]
 }
