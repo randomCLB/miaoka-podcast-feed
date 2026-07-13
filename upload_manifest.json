@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:44:55+00:00",
+  "generated_at": "2026-07-13T03:51:57+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -163,6 +163,22 @@
       "copied_files": [
         "miaoka-podcast-feed/media/episode-292/ep292-audio.mp3",
         "miaoka-podcast-feed/media/episode-292/ep292-cover.png"
+      ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12",
+      "episode_number": "295",
+      "title": "第295期：水退之后淤泥仍活着：洪灾后的十个健康风险",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/07_deliver/音频——第295期_水退之后淤泥仍活着.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/00_qc/platform_creative/audio_square.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/07_deliver/公众号——第295期_水退之后淤泥仍活着.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-295/ep295-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-295/ep295-cover.png",
+      "audio_bytes": 6435179,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/private/tmp/meowcast-rss-295/media/episode-295/ep295-audio.mp3",
+        "/private/tmp/meowcast-rss-295/media/episode-295/ep295-cover.png"
       ]
     }
   ],

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话。喵咖播客用轻松对话聊科学、健康与技术，把论文、新闻和真实生活讲得更容易听懂。内容仅作科普交流，不构成医疗建议。</description><language>zh-cn</language><lastBuildDate>Sun, 12 Jul 2026 04:44:55 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" xmlns:ns1="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns2="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话。喵咖播客用轻松对话聊科学、健康与技术，把论文、新闻和真实生活讲得更容易听懂。内容仅作科普交流，不构成医疗建议。</description><language>zh-cn</language><lastBuildDate>Sun, 12 Jul 2026 04:44:55 +0000</lastBuildDate><ns0:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:owner><ns1:name>喵咖播客</ns1:name><ns1:email>qinshankindle@163.com</ns1:email></ns1:owner><ns1:category text="Science"><ns1:category text="Life Sciences" /></ns1:category><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png" /><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
-提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</description><content:encoded>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
+提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</description><ns2:encoded>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
-提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</content:encoded><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-238</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-audio.mp3" length="3187916" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>238</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-cover.jpg"></itunes:image></item><item><title>眼睛不是叶子，为什么角膜还能“用光” 第273期</title><description>## 一句话总结
+提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</ns2:encoded><pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-238</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-audio.mp3" length="3187916" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>238</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-cover.jpg" /></item><item><title>眼睛不是叶子，为什么角膜还能“用光” 第273期</title><description>## 一句话总结
 眼睛每天都在接收光，但通常只是“看见光”。
 ## 核心要点
 1. 证据链应按 `细胞实验 -&gt; 离体/局部组织 -&gt; 小鼠模型` 讲，不得跳成临床。
@@ -17,7 +17,7 @@
 - Mouse eyes photosynthesize after plant-to-animal transplant https://www.nature.com/articles/d41586-026-01559-9
 - Cell membrane-encased thylakoid as white light triggered PDT therapy for facile and targeted choroidal melanoma treatment https://doi.org/10.1016/j.bioactmat.2026.03.058
 ## 免责声明
-&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</description><content:encoded>## 一句话总结
+&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</description><ns2:encoded>## 一句话总结
 眼睛每天都在接收光，但通常只是“看见光”。
 ## 核心要点
 1. 证据链应按 `细胞实验 -&gt; 离体/局部组织 -&gt; 小鼠模型` 讲，不得跳成临床。
@@ -31,7 +31,7 @@
 - Mouse eyes photosynthesize after plant-to-animal transplant https://www.nature.com/articles/d41586-026-01559-9
 - Cell membrane-encased thylakoid as white light triggered PDT therapy for facile and targeted choroidal melanoma treatment https://doi.org/10.1016/j.bioactmat.2026.03.058
 ## 免责声明
-&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</content:encoded><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-273</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a" length="10718462" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>273</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png"></itunes:image></item><item><title>打最难的靶点，斗最难的癌症：daraxonrasib为何引发关注 第277+期</title><description>## 一句话总结
+&gt; 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。</ns2:encoded><pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-273</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a" length="10718462" type="audio/mp4" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>273</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png" /></item><item><title>打最难的靶点，斗最难的癌症：daraxonrasib为何引发关注 第277+期</title><description>## 一句话总结
 胰腺癌RAS靶向药三期改写二线坐标。
 ## 核心要点
 1. RASolute 302 三期结果已在二零二六年 ASCO 全体大会公布，并同步发表于《新英格兰医学杂志》。
@@ -42,7 +42,7 @@
 ## 引用文献
 - Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2605555
 - Revolution Medicines Announces ASCO Plenary Presentation Highlighting Unprecedented Results from Pivotal Phase 3 RASolute 302 Clinical Trial。Company press release / ASCO plenary data，2026 https://ir.revmed.com/node/13046/pdf
-- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c</description><content:encoded>## 一句话总结
+- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c</description><ns2:encoded>## 一句话总结
 胰腺癌RAS靶向药三期改写二线坐标。
 ## 核心要点
 1. RASolute 302 三期结果已在二零二六年 ASCO 全体大会公布，并同步发表于《新英格兰医学杂志》。
@@ -53,7 +53,7 @@
 ## 引用文献
 - Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2605555
 - Revolution Medicines Announces ASCO Plenary Presentation Highlighting Unprecedented Results from Pivotal Phase 3 RASolute 302 Clinical Trial。Company press release / ASCO plenary data，2026 https://ir.revmed.com/node/13046/pdf
-- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c</content:encoded><pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-277-plus</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a" length="10592527" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>277</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.jpg"></itunes:image></item><item><title>迟到的新冠药，换了一个战场 第285期</title><description>## 一句话总结
+- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c</ns2:encoded><pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-277-plus</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a" length="10592527" type="audio/mp4" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>277</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.jpg" /></item><item><title>迟到的新冠药，换了一个战场 第285期</title><description>## 一句话总结
 新冠药转向暴露后预防。
 ## 核心要点
 1. 疫情热度已经退了，为什么 Shionogi 还在把钱、临床试验和全球申报押在新冠药上？
@@ -65,7 +65,7 @@
 - Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。New England Journal of Medicine，2026 https://www.nejm.org/doi/full/10.1056/NEJMoa2509306
 - Novel Drug Approvals for 2026: Xocova ensitrelvir。U.S. Food and Drug Administration，2026 https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026
 - XOCOVA (ensitrelvir) Prescribing Information。Shionogi / FDA-approved labeling，2026 https://www.shionogi.com/content/dam/shionogi/si/products/pdf/xocova.pdf
-- Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。PubMed / N Engl J Med，2026 https://pu</description><content:encoded>## 一句话总结
+- Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。PubMed / N Engl J Med，2026 https://pu</description><ns2:encoded>## 一句话总结
 新冠药转向暴露后预防。
 ## 核心要点
 1. 疫情热度已经退了，为什么 Shionogi 还在把钱、临床试验和全球申报押在新冠药上？
@@ -77,7 +77,7 @@
 - Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。New England Journal of Medicine，2026 https://www.nejm.org/doi/full/10.1056/NEJMoa2509306
 - Novel Drug Approvals for 2026: Xocova ensitrelvir。U.S. Food and Drug Administration，2026 https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026
 - XOCOVA (ensitrelvir) Prescribing Information。Shionogi / FDA-approved labeling，2026 https://www.shionogi.com/content/dam/shionogi/si/products/pdf/xocova.pdf
-- Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。PubMed / N Engl J Med，2026 https://pu</content:encoded><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-285</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-audio.mp3" length="5606963" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>285</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-cover.png"></itunes:image></item><item><title>iPSC干细胞首次进入人体替换视网膜感光细胞 第286期</title><description>## 一句话总结
+- Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。PubMed / N Engl J Med，2026 https://pu</ns2:encoded><pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-285</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-audio.mp3" length="5606963" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>285</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-cover.png" /></item><item><title>iPSC干细胞首次进入人体替换视网膜感光细胞 第286期</title><description>## 一句话总结
 iPSC细胞疗法进入人体早期验证。
 ## 核心要点
 1. 普通人问题：视网膜色素变性患者是不是终于能靠干细胞重获视力，还是这只是安全性为主的早期人体试验？
@@ -87,7 +87,7 @@ iPSC细胞疗法进入人体早期验证。
 5. 这是真正有节目价值的“首次”：不是 iPSC 第一次进眼睛，而是 iPSC 衍生细胞疗法首次临床测试 primary photoreceptor diseases，目标细胞是光感受器前体细胞。
 ## 引用文献
 - A Study to Investigate the Safety of OpCT-001 in Adults Who Have Primary Photoreceptor Disease (CLARICO)。ClinicalTrials.gov，2025 https://clinicaltrials.gov/study/NCT06789445
-- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou</description><content:encoded>## 一句话总结
+- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou</description><ns2:encoded>## 一句话总结
 iPSC细胞疗法进入人体早期验证。
 ## 核心要点
 1. 普通人问题：视网膜色素变性患者是不是终于能靠干细胞重获视力，还是这只是安全性为主的早期人体试验？
@@ -97,7 +97,7 @@ iPSC细胞疗法进入人体早期验证。
 5. 这是真正有节目价值的“首次”：不是 iPSC 第一次进眼睛，而是 iPSC 衍生细胞疗法首次临床测试 primary photoreceptor diseases，目标细胞是光感受器前体细胞。
 ## 引用文献
 - A Study to Investigate the Safety of OpCT-001 in Adults Who Have Primary Photoreceptor Disease (CLARICO)。ClinicalTrials.gov，2025 https://clinicaltrials.gov/study/NCT06789445
-- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou</content:encoded><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-286</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3" length="5516171" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>286</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png"></itunes:image></item><item><title>镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期</title><description>## 一句话总结
+- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou</ns2:encoded><pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-286</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3" length="5516171" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>286</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png" /></item><item><title>镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期</title><description>## 一句话总结
 镰状细胞病迎来强信号。
 ## 核心要点
 1. 这项RUBY研究看的是严重镰状细胞病患者，不是普通贫血，也不是所有血液病都适用。
@@ -109,7 +109,7 @@ iPSC细胞疗法进入人体早期验证。
 - CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat Sickle Cell Disease。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2415550
 - PubMed record PMID 41931047。PubMed / NCBI，2026 https://pubmed.ncbi.nlm.nih.gov/41931047/
 - RUBY trial NCT04853576。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT04853576
-- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient</description><content:encoded>## 一句话总结
+- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient</description><ns2:encoded>## 一句话总结
 镰状细胞病迎来强信号。
 ## 核心要点
 1. 这项RUBY研究看的是严重镰状细胞病患者，不是普通贫血，也不是所有血液病都适用。
@@ -121,7 +121,7 @@ iPSC细胞疗法进入人体早期验证。
 - CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat Sickle Cell Disease。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2415550
 - PubMed record PMID 41931047。PubMed / NCBI，2026 https://pubmed.ncbi.nlm.nih.gov/41931047/
 - RUBY trial NCT04853576。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT04853576
-- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient</content:encoded><pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-287</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3" length="4294547" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>287</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png"></itunes:image></item><item><title>70分钟无预扩增：TRACKer把核酸检测的放大环节换了位置 第288期</title><description>## 一句话总结
+- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient</ns2:encoded><pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-287</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3" length="4294547" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>287</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png" /></item><item><title>70分钟无预扩增：TRACKer把核酸检测的放大环节换了位置 第288期</title><description>## 一句话总结
 七十分钟无预扩增合成生物学诊断平台，放大后移。
 ## 核心要点
 1. 这篇 Nature Communications 论文的关键不是“PCR下岗”，而是展示一种无预扩增的思路：目标RNA不被复制，目标RNA只负责解锁后续报告信号。
@@ -132,7 +132,7 @@ iPSC细胞疗法进入人体早期验证。
 ## 引用文献
 - De novo-designed ribozyme-controlled riboregulator for cell-free diagnostics。Nature Communications，2026 https://www.nature.com/articles/s41467-026-71684-6
 - Detection of viral RNAs at ambient temperature via reporter proteins produced through the target-splinted ligation of DNA probes。Nature Biomedical Engineering，2023 https://www.nature.com/articles/s41551-023-01028-y
-- Rapid, low-cost detection of Zika virus using programmable biomolecular components。Cell，2016 https://www.cell.com/ful</description><content:encoded>## 一句话总结
+- Rapid, low-cost detection of Zika virus using programmable biomolecular components。Cell，2016 https://www.cell.com/ful</description><ns2:encoded>## 一句话总结
 七十分钟无预扩增合成生物学诊断平台，放大后移。
 ## 核心要点
 1. 这篇 Nature Communications 论文的关键不是“PCR下岗”，而是展示一种无预扩增的思路：目标RNA不被复制，目标RNA只负责解锁后续报告信号。
@@ -143,7 +143,7 @@ iPSC细胞疗法进入人体早期验证。
 ## 引用文献
 - De novo-designed ribozyme-controlled riboregulator for cell-free diagnostics。Nature Communications，2026 https://www.nature.com/articles/s41467-026-71684-6
 - Detection of viral RNAs at ambient temperature via reporter proteins produced through the target-splinted ligation of DNA probes。Nature Biomedical Engineering，2023 https://www.nature.com/articles/s41551-023-01028-y
-- Rapid, low-cost detection of Zika virus using programmable biomolecular components。Cell，2016 https://www.cell.com/ful</content:encoded><pubDate>Sun, 28 Jun 2026 03:16:52 +0000</pubDate><guid isPermaLink="false">meowcast-288</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3" length="5494607" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>288</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-288/ep288-cover.png"></itunes:image></item><item><title>episode290smartwatch 第290期</title><description>## 一句话总结
+- Rapid, low-cost detection of Zika virus using programmable biomolecular components。Cell，2016 https://www.cell.com/ful</ns2:encoded><pubDate>Sun, 28 Jun 2026 03:16:52 +0000</pubDate><guid isPermaLink="false">meowcast-288</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3" length="5494607" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>288</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-288/ep288-cover.png" /></item><item><title>episode290smartwatch 第290期</title><description>## 一句话总结
 smartwatch提醒不等于诊断。
 ## 核心要点
 1. 低氧区间更关键也更难。平均偏差小，不代表临床边界附近不会误判。
@@ -156,7 +156,7 @@ smartwatch提醒不等于诊断。
 - General Wellness: Policy for Low Risk Devices https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices
 - Apple Irregular Rhythm Notification Feature De Novo Summary DEN180042 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180042.pdf
 - Apple ECG App De Novo Summary DEN180044 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180044.pdf
-- FDA Proposes Updated Recommendations to Help Improve Performance of Pulse Ox</description><content:encoded>## 一句话总结
+- FDA Proposes Updated Recommendations to Help Improve Performance of Pulse Ox</description><ns2:encoded>## 一句话总结
 smartwatch提醒不等于诊断。
 ## 核心要点
 1. 低氧区间更关键也更难。平均偏差小，不代表临床边界附近不会误判。
@@ -169,7 +169,7 @@ smartwatch提醒不等于诊断。
 - General Wellness: Policy for Low Risk Devices https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices
 - Apple Irregular Rhythm Notification Feature De Novo Summary DEN180042 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180042.pdf
 - Apple ECG App De Novo Summary DEN180044 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180044.pdf
-- FDA Proposes Updated Recommendations to Help Improve Performance of Pulse Ox</content:encoded><pubDate>Thu, 02 Jul 2026 14:57:13 +0000</pubDate><guid isPermaLink="false">meowcast-290</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3" length="6076799" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>290</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg"></itunes:image></item><item><title>全球首个生物工程肝脏临床试验成功 第291期</title><description>## 一句话总结
+- FDA Proposes Updated Recommendations to Help Improve Performance of Pulse Ox</ns2:encoded><pubDate>Thu, 02 Jul 2026 14:57:13 +0000</pubDate><guid isPermaLink="false">meowcast-290</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3" length="6076799" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>290</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg" /></item><item><title>全球首个生物工程肝脏临床试验成功 第291期</title><description>## 一句话总结
 全球首个生物工程肝脏临床试验成功
 ## 核心要点
 1. 第291期研究底座：全球首个生物工程肝脏临床试验成功
@@ -180,7 +180,7 @@ smartwatch提醒不等于诊断。
 ## 引用文献
 - United Therapeutics Announces Positive Results from Phase 1 Study of miroliverELAP in Patients with Acute Liver Failure。United Therapeutics press release，2026 https://ir.unither.com/press-releases/2026/01-26-2026-120028746
 - miroliverELAP for the Treatment of Acute Liver Failure: A Phase 1 Trial。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT06285253
-- Manufac</description><content:encoded>## 一句话总结
+- Manufac</description><ns2:encoded>## 一句话总结
 全球首个生物工程肝脏临床试验成功
 ## 核心要点
 1. 第291期研究底座：全球首个生物工程肝脏临床试验成功
@@ -191,4 +191,4 @@ smartwatch提醒不等于诊断。
 ## 引用文献
 - United Therapeutics Announces Positive Results from Phase 1 Study of miroliverELAP in Patients with Acute Liver Failure。United Therapeutics press release，2026 https://ir.unither.com/press-releases/2026/01-26-2026-120028746
 - miroliverELAP for the Treatment of Acute Liver Failure: A Phase 1 Trial。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT06285253
-- Manufac</content:encoded><pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-291</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-audio.mp3" length="6847595" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>291</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-cover.png"></itunes:image></item><item><title>微型机器人真能修复脊髓？给干细胞装上导航系统｜第292期</title><description>研究把人源神经祖细胞与磁电纳米颗粒组合成 NPCbots，通过磁场定位和局部磁电刺激，在斑马鱼与小鼠脊髓损伤模型中观察到再生或运动改善信号。这仍是临床前动物研究，不是已经可用于患者的疗法。</description><content:encoded>研究把人源神经祖细胞与磁电纳米颗粒组合成 NPCbots，通过磁场定位和局部磁电刺激，在斑马鱼与小鼠脊髓损伤模型中观察到再生或运动改善信号。这仍是临床前动物研究，不是已经可用于患者的疗法。</content:encoded><pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-292</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-292/ep292-audio.mp3" length="6508871" type="audio/mpeg"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episode>292</itunes:episode><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-292/ep292-cover.png"></itunes:image></item></channel></rss>
+- Manufac</ns2:encoded><pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-291</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-audio.mp3" length="6847595" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>291</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-cover.png" /></item><item><title>微型机器人真能修复脊髓？给干细胞装上导航系统｜第292期</title><description>研究把人源神经祖细胞与磁电纳米颗粒组合成 NPCbots，通过磁场定位和局部磁电刺激，在斑马鱼与小鼠脊髓损伤模型中观察到再生或运动改善信号。这仍是临床前动物研究，不是已经可用于患者的疗法。</description><ns2:encoded>研究把人源神经祖细胞与磁电纳米颗粒组合成 NPCbots，通过磁场定位和局部磁电刺激，在斑马鱼与小鼠脊髓损伤模型中观察到再生或运动改善信号。这仍是临床前动物研究，不是已经可用于患者的疗法。</ns2:encoded><pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-292</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-292/ep292-audio.mp3" length="6508871" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>292</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-292/ep292-cover.png" /></item><item><title>第295期：水退之后淤泥仍活着：洪灾后的十个健康风险</title><description>水退之后淤泥仍活着：论文把洪灾后的泥从模糊的脏，推进成一个可以确认的活菌与暴露路径问题。</description><ns2:encoded>水退之后淤泥仍活着：论文把洪灾后的泥从模糊的脏，推进成一个可以确认的活菌与暴露路径问题。</ns2:encoded><pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate><guid isPermaLink="false">meowcast-295</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-295/ep295-audio.mp3" length="6435179" type="audio/mpeg" /><ns1:author>喵咖播客</ns1:author><ns1:explicit>false</ns1:explicit><ns1:episode>295</ns1:episode><ns1:episodeType>full</ns1:episodeType><ns1:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-295/ep295-cover.png" /></item></channel></rss>
