@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T16:48:55+00:00",
+  "generated_at": "2026-08-05T18:35:20+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -195,6 +195,22 @@
       "copied_files": [
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-300/ep300-audio.mp3",
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-300/ep300-cover.png"
+      ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02",
+      "episode_number": "303",
+      "title": "第303期：不含外源 DNA 的水稻，算不算转基因？",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02/07_deliver/音频——第303期_不含外源 DNA 的水稻，算不算转基因？.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02/00_qc/platform_creative/audio_square.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02/07_deliver/公众号——第303期_不含外源 DNA 的水稻，算不算转基因？.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-303/ep303-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-303/ep303-cover.png",
+      "audio_bytes": 5494715,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-303/ep303-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-303/ep303-cover.png"
       ]
     }
   ],
