@@ -212,6 +212,22 @@
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-303/ep303-audio.mp3",
         "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-303/ep303-cover.png"
       ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06",
+      "episode_number": "304",
+      "title": "第304期：出门前，能给阳台植物喷一剂省水药吗？",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06/07_deliver/音频——第304期_植物抗旱小分子与阳台盆栽旅行场景.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06/00_qc/platform_creative/audio_square.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06/07_deliver/公众号——第304期_植物抗旱小分子与阳台盆栽旅行场景.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-304/ep304-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-304/ep304-cover.png",
+      "audio_bytes": 5121323,
+      "audio_type": "audio/mpeg",
+      "copied_files": [
+        "/private/var/folders/fy/qxml6s755pbdzt0w3ps_hg140000gn/T/tmp.bZGQQpBM1b/media/episode-304/ep304-audio.mp3",
+        "/private/var/folders/fy/qxml6s755pbdzt0w3ps_hg140000gn/T/tmp.bZGQQpBM1b/media/episode-304/ep304-cover.png"
+      ]
     }
   ],
   "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
