@@ -1,184 +1,184 @@
 {
-  "generated_at": "2026-08-11T05:11:28+00:00",
+  "generated_at": "2026-08-12T16:45:49+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
-  "stage_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed",
+  "stage_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public",
   "episodes": [
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11",
       "episode_number": "238",
       "title": "第238期：AI 能提前发现阿尔茨海默病吗？",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/episode_238_alzheimer_ai_diagnosis.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/cover_3000x3000.jpg",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-238/ep238-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-238/ep238-cover.jpg",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/rss_upload_notes.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-238/ep238-cover.jpg",
       "audio_bytes": 3187916,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-238/ep238-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-238/ep238-cover.jpg"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-238/ep238-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-238/ep238-cover.jpg"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23",
       "episode_number": "273",
       "title": "眼睛不是叶子，为什么角膜还能“用光” 第273期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/07_deliver/音频——眼角膜光合作用.m4a",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/07_deliver/封面——眼角膜光合作用.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-273/ep273-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/07_deliver/公众号——眼角膜光合作用.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-273/ep273-cover.png",
       "audio_bytes": 10718462,
       "audio_type": "audio/mp4",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-273/ep273-audio.m4a",
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-273/ep273-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-273/ep273-audio.m4a",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-273/ep273-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08",
       "episode_number": "277+",
       "title": "打最难的靶点，斗最难的癌症：daraxonrasib为何引发关注 第277+期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/07_deliver/音频——胰腺癌RAS靶向药daraxonrasib三期更新.m4a",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/00_qc/xiaoyuzhou_cover_277_plus.jpg",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.jpg",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/07_deliver/公众号——胰腺癌RAS靶向药daraxonrasib三期更新.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.jpg",
       "audio_bytes": 10592527,
       "audio_type": "audio/mp4",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-277-plus/ep277-plus-audio.m4a",
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-277-plus/ep277-plus-cover.jpg"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-277-plus/ep277-plus-audio.m4a",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-277-plus/ep277-plus-cover.jpg"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13",
       "episode_number": "285",
       "title": "迟到的新冠药，换了一个战场 第285期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/音频——第285期_ensitrelvir暴露后预防COVID.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/封面——第285期_ensitrelvir暴露后预防COVID.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-285/ep285-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-285/ep285-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/公众号——第285期_ensitrelvir暴露后预防COVID.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-285/ep285-cover.png",
       "audio_bytes": 5606963,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-285/ep285-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-285/ep285-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-285/ep285-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-285/ep285-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19",
       "episode_number": "286",
       "title": "iPSC干细胞首次进入人体替换视网膜感光细胞 第286期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19/07_deliver/音频——第286期_iPSC干细胞首次进入人体替换视网膜感光细胞.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19/07_deliver/封面——第286期_iPSC干细胞首次进入人体替换视网膜感光细胞.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-286/ep286-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19/07_deliver/公众号——第286期_iPSC干细胞首次进入人体替换视网膜感光细胞.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-286/ep286-cover.png",
       "audio_bytes": 5516171,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-286/ep286-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-286/ep286-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-286/ep286-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-286/ep286-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24",
       "episode_number": "287",
       "title": "镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/音频——第287期_episode287renicelcas12asickle.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/封面——第287期_episode287renicelcas12asickle.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-287/ep287-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/公众号——第287期_episode287renicelcas12asickle.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-287/ep287-cover.png",
       "audio_bytes": 4294547,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-287/ep287-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host/public/media/episode-287/ep287-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-287/ep287-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-287/ep287-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_288_tracker_cell_free_diagnostics",
       "episode_number": "288",
       "title": "70分钟无预扩增：TRACKer把核酸检测的放大环节换了位置 第288期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_288_tracker_cell_free_diagnostics/07_deliver/音频——第288期_episode288trackercellfree.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_288_tracker_cell_free_diagnostics/07_deliver/封面——第288期_episode288trackercellfree.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_288_tracker_cell_free_diagnostics/07_deliver/公众号——第288期_episode288trackercellfree.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-288/ep288-cover.png",
       "audio_bytes": 5494607,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-288/ep288-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-288/ep288-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits",
       "episode_number": "290",
       "title": "episode290smartwatch 第290期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/音频——第290期_episode290smartwatch.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/封面——第290期_episode290smartwatch.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg",
       "notes": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/公众号——第290期_episode290smartwatch.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg",
       "audio_bytes": 6076799,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-290/ep290-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-290/ep290-cover.jpg"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03",
       "episode_number": "291",
       "title": "全球首个生物工程肝脏临床试验成功 第291期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/音频——第291期_全球首个生物工程肝脏临床试验成功.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/封面——第291期_全球首个生物工程肝脏临床试验成功.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-291/ep291-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-291/ep291-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/公众号——第291期_全球首个生物工程肝脏临床试验成功.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-291/ep291-cover.png",
       "audio_bytes": 6847595,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "miaoka-podcast-feed/media/episode-291/ep291-audio.mp3",
-        "miaoka-podcast-feed/media/episode-291/ep291-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-291/ep291-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-291/ep291-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第292期_喵咖播客_NPCbots磁电微型机器人与脊髓损伤修复_2026-07-05",
       "episode_number": "292",
       "title": "微型机器人真能修复脊髓？给干细胞装上导航系统｜第292期",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第292期_喵咖播客_NPCbots磁电微型机器人与脊髓损伤修复_2026-07-05/07_deliver/音频——第292期_episode292npcbotsspinal.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第292期_喵咖播客_NPCbots磁电微型机器人与脊髓损伤修复_2026-07-05/00_qc/platform_creative/audio_square.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-292/ep292-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-292/ep292-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第292期_喵咖播客_NPCbots磁电微型机器人与脊髓损伤修复_2026-07-05/07_deliver/公众号——第292期_episode292npcbotsspinal.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-292/ep292-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-292/ep292-cover.png",
       "audio_bytes": 6508871,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "miaoka-podcast-feed/media/episode-292/ep292-audio.mp3",
-        "miaoka-podcast-feed/media/episode-292/ep292-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-292/ep292-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-292/ep292-cover.png"
       ]
     },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12",
       "episode_number": "295",
       "title": "第295期：水退之后淤泥仍活着：洪灾后的十个健康风险",
-      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/07_deliver/音频——第295期_水退之后淤泥仍活着.mp3",
-      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/00_qc/platform_creative/audio_square.png",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-295/ep295-audio.mp3",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-295/ep295-cover.png",
       "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/07_deliver/公众号——第295期_水退之后淤泥仍活着.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-295/ep295-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-295/ep295-cover.png",
       "audio_bytes": 6435179,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/private/tmp/meowcast-rss-295/media/episode-295/ep295-audio.mp3",
-        "/private/tmp/meowcast-rss-295/media/episode-295/ep295-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-295/ep295-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-295/ep295-cover.png"
       ]
     },
     {
@@ -193,8 +193,8 @@
       "audio_bytes": 4798223,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-300/ep300-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-300/ep300-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-300/ep300-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-300/ep300-cover.png"
       ]
     },
     {
@@ -209,8 +209,8 @@
       "audio_bytes": 5494715,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-303/ep303-audio.mp3",
-        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-303/ep303-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-303/ep303-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-303/ep303-cover.png"
       ]
     },
     {
@@ -225,8 +225,8 @@
       "audio_bytes": 5121323,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "/private/var/folders/fy/qxml6s755pbdzt0w3ps_hg140000gn/T/tmp.bZGQQpBM1b/media/episode-304/ep304-audio.mp3",
-        "/private/var/folders/fy/qxml6s755pbdzt0w3ps_hg140000gn/T/tmp.bZGQQpBM1b/media/episode-304/ep304-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-304/ep304-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-304/ep304-cover.png"
       ]
     },
     {
@@ -241,57 +241,232 @@
       "audio_bytes": 6163235,
       "audio_type": "audio/mpeg",
       "copied_files": [
-        "miaoka-podcast-feed/media/episode-305/ep305-audio.mp3",
-        "miaoka-podcast-feed/media/episode-305/ep305-cover.png"
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-305/ep305-audio.mp3",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-305/ep305-cover.png"
+      ]
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第306期_喵咖播客_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5_2026-08-11",
+      "episode_number": "306",
+      "title": "第306期｜个性化mRNA癌症疫苗五年随访解读",
+      "audio": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第306期_喵咖播客_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5_2026-08-11/07_deliver/音频——第306期_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5年数据出炉.m4a",
+      "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第306期_喵咖播客_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5_2026-08-11/00_qc/platform_creative/audio_square.png",
+      "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第306期_喵咖播客_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5_2026-08-11/07_deliver/公众号——第306期_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5年数据出炉.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-306/ep306-audio.m4a",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-306/ep306-cover.png",
+      "audio_bytes": 8908672,
+      "audio_type": "audio/mp4",
+      "copied_files": [
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-306/ep306-audio.m4a",
+        "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-306/ep306-cover.png"
       ]
     }
   ],
-  "host_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/00_qc/podcast_host",
+  "host_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed",
   "registered_episodes": [
     {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11",
       "episode_number": "238",
       "title": "第238期：AI 能提前发现阿尔茨海默病吗？",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11",
-      "added_at": "2026-06-11T07:31:31+00:00"
-    },
-    {
-      "episode_number": "273",
-      "title": "眼睛不是叶子，为什么角膜还能“用光” 第273期",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23",
-      "added_at": "2026-06-11T06:59:07+00:00"
-    },
-    {
-      "episode_number": "277+",
-      "title": "打最难的靶点，斗最难的癌症：daraxonrasib为何引发关注 第277+期",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08",
-      "added_at": "2026-06-13T03:27:08+00:00",
       "asset_overrides": {
-        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/00_qc/xiaoyuzhou_cover_277_plus.jpg"
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-238/ep238-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-238/ep238-cover.jpg",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11/rss_upload/rss_upload_notes.md",
+        "description": "这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？\n本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。\n提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。",
+        "pub_date": "2026-03-11T00:00:00+00:00"
       }
     },
     {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23",
+      "episode_number": "273",
+      "title": "眼睛不是叶子，为什么角膜还能“用光” 第273期",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-273/ep273-audio.m4a",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-273/ep273-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第273期_喵咖播客_眼角膜光合作用_2026-05-23/07_deliver/公众号——眼角膜光合作用.md",
+        "description": "## 一句话总结\n眼睛每天都在接收光，但通常只是“看见光”。\n## 核心要点\n1. 证据链应按 `细胞实验 -> 离体/局部组织 -> 小鼠模型` 讲，不得跳成临床。\n2. 最大未解问题是长期安全性、免疫反应、光照剂量、递送方式和人体有效性。\n3. 落点不是“人类超能力”，而是“跨物种生物机器能不能成为新的医学工具”。这期的价值是把想象力和边界一起讲清楚。\n4. 1. 当前证据仍是细胞、组织和动物层面，不是人体临床疗法。\n5. 4. 光照剂量是关键变量，过强或长期照射可能带来光毒性。\n## 引用文献\n- Transplanting light-dependent reactions for mammalian eye photosynthesis https://doi.org/10.1016/j.cell.2026.04.034\n- A plant-derived natural photosynthetic system for improving cell anabolism https://doi.org/10.1038/s41586-022-05499-y\n- Mouse eyes photosynthesize after plant-to-animal transplant https://www.nature.com/articles/d41586-026-01559-9\n- Cell membrane-encased thylakoid as white light triggered PDT therapy for facile and targeted choroidal melanoma treatment https://doi.org/10.1016/j.bioactmat.2026.03.058\n## 免责声明\n> 本文内容仅供科普参考，不构成任何医疗建议。具体治疗方案请遵医嘱，患者用药请严格遵循专业医师指导。",
+        "pub_date": "2026-05-23T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08",
+      "episode_number": "277+",
+      "title": "打最难的靶点，斗最难的癌症：daraxonrasib为何引发关注 第277+期",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-audio.m4a",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-277-plus/ep277-plus-cover.jpg",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第277+期_喵咖播客_胰腺癌RAS靶向药daraxonrasib三期更新_2026-06-08/07_deliver/公众号——胰腺癌RAS靶向药daraxonrasib三期更新.md",
+        "description": "## 一句话总结\n胰腺癌RAS靶向药三期改写二线坐标。\n## 核心要点\n1. RASolute 302 三期结果已在二零二六年 ASCO 全体大会公布，并同步发表于《新英格兰医学杂志》。\n2. 在既往治疗后的转移性胰腺导管腺癌中，daraxonrasib 将中位总生存期从 6.7 个月推到 13.2 个月，死亡风险相对下降约 60%。\n3. PFS 和 ORR 也支持同一方向：疾病不进展时间约 7.2 到 7.3 个月，对照约 3.5 到 3.6 个月；缓解率约三成，对照约一成。\n4. 这类 RAS(ON) 多选择性三元复合物抑制剂的意义，不只是“又一个靶向药”，而是把直接打主流 RAS 突变推进到更硬的随机三期证据。\n5. 展望可以看向结直肠癌、非小细胞肺癌和胆道肿瘤，但不同癌种、突变亚型、组织环境、耐药和联合方案都要重新验证；突破性疗法认定也不等于已经获批上市。\n## 引用文献\n- Daraxonrasib or Chemotherapy in Previously Treated Metastatic Pancreatic Cancer。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2605555\n- Revolution Medicines Announces ASCO Plenary Presentation Highlighting Unprecedented Results from Pivotal Phase 3 RASolute 302 Clinical Trial。Company press release / ASCO plenary data，2026 https://ir.revmed.com/node/13046/pdf\n- Pancreatic Cancer Treatment (PDQ) - Health Professional Version。National Cancer Institute，2025 https://www.c",
+        "pub_date": "2026-06-08T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13",
       "episode_number": "285",
       "title": "迟到的新冠药，换了一个战场 第285期",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13",
-      "added_at": "2026-06-19T02:27:10+00:00"
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-285/ep285-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-285/ep285-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第285期_喵咖播客_ensitrelvir暴露后预防COVID_2026-06-13/07_deliver/公众号——第285期_ensitrelvir暴露后预防COVID.md",
+        "description": "## 一句话总结\n新冠药转向暴露后预防。\n## 核心要点\n1. 疫情热度已经退了，为什么 Shionogi 还在把钱、临床试验和全球申报押在新冠药上？\n2. Shionogi 不是第一次做“家庭接触者暴露后预防”。它在流感 Xofluza/baloxavir 上已经跑通过类似的临床和监管路径。\n3. 这就是 post-exposure prophylaxis，暴露后预防。它介于“日常预防”和“治疗已发病患者”之间，处理的是已经站在风险里的那群人。\n4. 类型：双盲、随机、安慰剂对照、多国三期临床试验。\n5. 风险比：0.33，95% CI 0.22-0.49，P<0.001。\n## 引用文献\n- Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。New England Journal of Medicine，2026 https://www.nejm.org/doi/full/10.1056/NEJMoa2509306\n- Novel Drug Approvals for 2026: Xocova ensitrelvir。U.S. Food and Drug Administration，2026 https://www.fda.gov/drugs/novel-drug-approvals-fda/novel-drug-approvals-2026\n- XOCOVA (ensitrelvir) Prescribing Information。Shionogi / FDA-approved labeling，2026 https://www.shionogi.com/content/dam/shionogi/si/products/pdf/xocova.pdf\n- Ensitrelvir for Covid-19 Postexposure Prophylaxis in Household Contacts。PubMed / N Engl J Med，2026 https://pu",
+        "pub_date": "2026-06-13T00:00:00+00:00"
+      }
     },
     {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19",
       "episode_number": "286",
       "title": "iPSC干细胞首次进入人体替换视网膜感光细胞 第286期",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19",
-      "added_at": "2026-06-22T16:51:00+00:00"
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-286/ep286-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-286/ep286-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第286期_喵咖播客_iPSC干细胞首次进入人体替换视网膜感光细胞_2026-06-19/07_deliver/公众号——第286期_iPSC干细胞首次进入人体替换视网膜感光细胞.md",
+        "description": "## 一句话总结\niPSC细胞疗法进入人体早期验证。\n## 核心要点\n1. 普通人问题：视网膜色素变性患者是不是终于能靠干细胞重获视力，还是这只是安全性为主的早期人体试验？\n2. A 级临床注册：ClinicalTrials.gov NCT06789445 记录 CLARICO/OpCT-001-101 为 1/2a 期、first-in-human、多中心、两部分干预研究，目标评估安全性、耐受性以及对临床结局的影响。\n3. A 级公司/监管公告：BlueRock 2025-07-08 公告称首位患者已在 CLARICO 中接受 OpCT-001，试验最多约 54 名成人，第一部分以安全性和剂量递增为主，第二部分进一步观察视觉功能、功能性视觉和解剖性植入指标。\n4. C 级：Applied Clinical Trials、CLARICO 患者招募页、专业媒体。用于传播语境、公众语言和患者说明，不单独支撑疗效结论。\n5. 这是真正有节目价值的“首次”：不是 iPSC 第一次进眼睛，而是 iPSC 衍生细胞疗法首次临床测试 primary photoreceptor diseases，目标细胞是光感受器前体细胞。\n## 引用文献\n- A Study to Investigate the Safety of OpCT-001 in Adults Who Have Primary Photoreceptor Disease (CLARICO)。ClinicalTrials.gov，2025 https://clinicaltrials.gov/study/NCT06789445\n- BlueRock Therapeutics announces first patient receives investigational therapy in Phase 1/2a clinical trial of OpCT-001。BlueRock Therapeutics，2025 https://www.bluerocktx.com/bluerock-therapeutics-annou",
+        "pub_date": "2026-06-19T00:00:00+00:00"
+      }
     },
     {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24",
       "episode_number": "287",
       "title": "镰状细胞病的Cas12a信号：强在哪里，边界在哪里？ 第287期",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24",
-      "added_at": "2026-06-25T14:00:49+00:00"
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-287/ep287-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-287/ep287-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第287期_喵咖播客_镰状细胞病Cas12a基因编辑_2026-06-24/07_deliver/公众号——第287期_episode287renicelcas12asickle.md",
+        "description": "## 一句话总结\n镰状细胞病迎来强信号。\n## 核心要点\n1. 这项RUBY研究看的是严重镰状细胞病患者，不是普通贫血，也不是所有血液病都适用。\n2. 研究结果很抓人：接受输注的28人里，27人在观察期没有再发生血管闭塞事件；但中位随访是9.5个月，不是每个人都有完整两年数据。\n3. reni-cel不是体内打一针改基因，而是取出自体造血干细胞，体外用CRISPR-Cas12a编辑，再经过busulfan清髓后回输。\n4. 它的核心思路不是把镰状突变原样修回去，而是编辑HBG1/HBG2启动子里的BCL11A结合位点，重新打开胎儿血红蛋白程序。\n5. 胎儿血红蛋白能减少红细胞镰状化，所以血管堵塞和疼痛危象减少有明确生物学逻辑；但这仍是复杂疗法，临床开发、长期安全性和可及性都还要继续看。\n## 引用文献\n- CRISPR-Cas12a Gene Editing of HBG1 and HBG2 Promoters to Treat Sickle Cell Disease。New England Journal of Medicine，2026 https://www.nejm.org/doi/10.1056/NEJMoa2415550\n- PubMed record PMID 41931047。PubMed / NCBI，2026 https://pubmed.ncbi.nlm.nih.gov/41931047/\n- RUBY trial NCT04853576。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT04853576\n- FDA approves first gene therapies to treat patients with sickle cell disease。FDA，2023 https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-to-treat-patient",
+        "pub_date": "2026-06-24T00:00:00+00:00"
+      }
     },
     {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_288_tracker_cell_free_diagnostics",
+      "episode_number": "288",
+      "title": "70分钟无预扩增：TRACKer把核酸检测的放大环节换了位置 第288期",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-288/ep288-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_288_tracker_cell_free_diagnostics/07_deliver/公众号——第288期_episode288trackercellfree.md",
+        "description": "## 一句话总结\n七十分钟无预扩增合成生物学诊断平台，放大后移。\n## 核心要点\n1. 这篇 Nature Communications 论文的关键不是“PCR下岗”，而是展示一种无预扩增的思路：目标RNA不被复制，目标RNA只负责解锁后续报告信号。\n2. TRACKer由核酶别构模块、核糖调控器激活模块和输出模块组成；目标RNA拉走抑制识别链后，HH15核酶恢复切割能力，露出核糖体结合位点，启动报告蛋白翻译。\n3. 论文报告六种呼吸道病毒的发光读出检测下限达到一到十阿摩尔量级，并用甲流、鼻病毒、呼吸道合胞病毒咽拭子做了与定量PCR对照的临床验证。\n4. 发光版和试纸条现场版不能混为一谈：阿摩尔级主要属于发光读出，现场侧向层析版更便携，但灵敏度和临床验证范围仍有限。\n5. 这仍是平台研究，不是获批家用产品；低病毒载量样本、批次一致性、质控、操作流程、结果解释和监管路径都还需要继续验证。\n## 引用文献\n- De novo-designed ribozyme-controlled riboregulator for cell-free diagnostics。Nature Communications，2026 https://www.nature.com/articles/s41467-026-71684-6\n- Detection of viral RNAs at ambient temperature via reporter proteins produced through the target-splinted ligation of DNA probes。Nature Biomedical Engineering，2023 https://www.nature.com/articles/s41551-023-01028-y\n- Rapid, low-cost detection of Zika virus using programmable biomolecular components。Cell，2016 https://www.cell.com/ful",
+        "pub_date": "2026-06-28T03:16:52+00:00"
+      }
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits",
+      "episode_number": "290",
+      "title": "episode290smartwatch 第290期",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-290/ep290-cover.jpg",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline local/projects/episode_290_smartwatch_limits/07_deliver/公众号——第290期_episode290smartwatch.md",
+        "description": "## 一句话总结\nsmartwatch提醒不等于诊断。\n## 核心要点\n1. 低氧区间更关键也更难。平均偏差小，不代表临床边界附近不会误判。\n2. 2025 年 FDA 提出更新 pulse oximeter 指南，明确关注不同肤色下的性能差异，并强调医疗用途脉搏血氧仪需要更有代表性的临床数据。\n3. 对医学来说，人群代表性不是政治正确，而是物理测量和临床安全问题。\n4. FDA De Novo 文件给出的关键边界很适合节目使用：\n5. 波形不用于临床诊断或治疗决策，只作信息和补充。\n## 引用文献\n- Validity and reliability of smartwatch-based upper-extremity function and heart rate assessment in outpatient older adults https://pubmed.ncbi.nlm.nih.gov/42190356/\n- General Wellness: Policy for Low Risk Devices https://www.fda.gov/regulatory-information/search-fda-guidance-documents/general-wellness-policy-low-risk-devices\n- Apple Irregular Rhythm Notification Feature De Novo Summary DEN180042 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180042.pdf\n- Apple ECG App De Novo Summary DEN180044 https://www.accessdata.fda.gov/cdrh_docs/reviews/DEN180044.pdf\n- FDA Proposes Updated Recommendations to Help Improve Performance of Pulse Ox",
+        "pub_date": "2026-07-02T14:57:13+00:00"
+      }
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03",
       "episode_number": "291",
       "title": "全球首个生物工程肝脏临床试验成功 第291期",
-      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03",
-      "added_at": "2026-07-05T18:07:18+00:00"
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-291/ep291-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-291/ep291-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第291期_喵咖播客_全球首个生物工程肝脏临床试验成功_2026-07-03/07_deliver/公众号——第291期_全球首个生物工程肝脏临床试验成功.md",
+        "description": "## 一句话总结\n全球首个生物工程肝脏临床试验成功\n## 核心要点\n1. 第291期研究底座：全球首个生物工程肝脏临床试验成功\n2. 核心事实：United Therapeutics 宣布 miroliverELAP I 期、单臂、开放标签安全性研究达到主要终点；5 名接受治疗的急性肝衰竭相关患者在至少 44 小时治疗期间均存活，32 天随访没有报告归因于 miroliverELAP 的非预期严重不良事件。\n3. 传播主轴：猪肝去细胞化后种上人类肝细胞，做成体外肝脏辅助系统，为急性肝衰竭患者争取等到恢复或移植的时间桥。\n4. A 级临床登记：ClinicalTrials.gov NCT06285253，确认研究为 Miromatrix 申办的 I 期、单臂、开放标签、安全性研究；治疗 48 小时；主要终点是治疗期间生存和 32 天内归因严重不良事件；登记实际入组 10 人，2026-01-22 完成。\n5. A 级前序技术论文：Nelson 等 2023 年 Bioengineering，描述临床规模生物工程肝移植物制造：猪肝去细胞化支架，接种人脐静脉内皮细胞和原代人肝细胞，能够清除氨并在运输冷藏模拟后保留功能。\n## 引用文献\n- United Therapeutics Announces Positive Results from Phase 1 Study of miroliverELAP in Patients with Acute Liver Failure。United Therapeutics press release，2026 https://ir.unither.com/press-releases/2026/01-26-2026-120028746\n- miroliverELAP for the Treatment of Acute Liver Failure: A Phase 1 Trial。ClinicalTrials.gov，2026 https://clinicaltrials.gov/study/NCT06285253\n- Manufac",
+        "pub_date": "2026-07-03T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第292期_喵咖播客_NPCbots磁电微型机器人与脊髓损伤修复_2026-07-05",
+      "episode_number": "292",
+      "title": "微型机器人真能修复脊髓？给干细胞装上导航系统｜第292期",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-292/ep292-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-292/ep292-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第292期_喵咖播客_NPCbots磁电微型机器人与脊髓损伤修复_2026-07-05/07_deliver/公众号——第292期_episode292npcbotsspinal.md",
+        "description": "研究把人源神经祖细胞与磁电纳米颗粒组合成 NPCbots，通过磁场定位和局部磁电刺激，在斑马鱼与小鼠脊髓损伤模型中观察到再生或运动改善信号。这仍是临床前动物研究，不是已经可用于患者的疗法。",
+        "pub_date": "2026-07-05T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12",
+      "episode_number": "295",
+      "title": "第295期：水退之后淤泥仍活着：洪灾后的十个健康风险",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-295/ep295-audio.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Code/podcast data/pepline upload/miaoka-podcast-feed/media/episode-295/ep295-cover.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第295期_喵咖播客_水退之后淤泥仍活着_2026-07-12/07_deliver/公众号——第295期_水退之后淤泥仍活着.md",
+        "description": "水退之后淤泥仍活着：论文把洪灾后的泥从模糊的脏，推进成一个可以确认的活菌与暴露路径问题。",
+        "pub_date": "2026-07-12T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "299",
+      "title": "第299期：一条吃饱线路，怎样变成一张治疗路线图？",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第299期_喵咖播客_一条吃饱线路，怎样变成一张治疗路线图？_2026-07-20",
+      "added_at": "2026-07-25T04:20:43+00:00",
+      "asset_overrides": {
+        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第299期_喵咖播客_一条吃饱线路，怎样变成一张治疗路线图？_2026-07-20/00_qc/platform_creative/audio_square.png"
+      }
+    },
+    {
+      "episode_number": "300",
+      "title": "第300期：一张烂榴莲照片，平台真的会被骗吗？",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第300期_喵咖播客_一张烂榴莲照片，平台真的会被骗吗？_2026-07-24",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第300期_喵咖播客_一张烂榴莲照片，平台真的会被骗吗？_2026-07-24/07_deliver/音频——第300期_一张烂榴莲照片，平台真的会被骗吗？——AI、仅退款与威慑的商业博弈.mp3",
+        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第300期_喵咖播客_一张烂榴莲照片，平台真的会被骗吗？_2026-07-24/00_qc/platform_creative/audio_square.png",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第300期_喵咖播客_一张烂榴莲照片，平台真的会被骗吗？_2026-07-24/07_deliver/公众号——第300期_一张烂榴莲照片，平台真的会被骗吗？——AI、仅退款与威慑的商业博弈.md",
+        "description": "第300期从生成式人工智能退款欺诈出发，结合对十七名商家和十三名平台工作人员的访谈，讨论伪造商品问题证据为何可能骗过平台，以及多角度视频、行为筛查和实物锚点如何改变攻防成本。",
+        "pub_date": "2026-07-24T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "303",
+      "title": "第303期：不含外源 DNA 的水稻，算不算转基因？",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02",
+      "added_at": "2026-08-05T18:34:39+00:00",
+      "asset_overrides": {
+        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02/00_qc/platform_creative/audio_square.png",
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02/07_deliver/音频——第303期_不含外源 DNA 的水稻，算不算转基因？.mp3",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第303期_喵咖播客_不含外源 DNA 的水稻，算不算转基因？_2026-08-02/07_deliver/公众号——第303期_不含外源 DNA 的水稻，算不算转基因？.md",
+        "description": "第303期围绕印度发布的两种基因编辑水稻，解释它们如何在不保留外源 DNA 的情况下定向改变水稻自身基因，并结合产量、早熟、耐盐碱证据与监管分类，讨论这类作物究竟算不算转基因。",
+        "pub_date": "2026-08-02T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "304",
+      "title": "第304期：出门前，能给阳台植物喷一剂省水药吗？",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06",
+      "added_at": "2026-08-08T06:56:21+00:00",
+      "asset_overrides": {
+        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06/00_qc/platform_creative/audio_square.png",
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06/07_deliver/音频——第304期_植物抗旱小分子与阳台盆栽旅行场景.mp3",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第304期_喵咖播客_出门旅游前，能不能给阳台植物喷一剂省水药？_2026-08-06/07_deliver/公众号——第304期_植物抗旱小分子与阳台盆栽旅行场景.md",
+        "description": "第304期从阳台盆栽旅行场景出发，介绍NS5806和UA49如何抑制保卫细胞钾通道、促进拟南芥气孔关闭，并梳理论文中的停水复水实验、ABA通路边界与从实验室走向真实植物应用前仍需回答的问题。",
+        "pub_date": "2026-08-06T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "305",
+      "title": "第305期：医用微机器人完成任务后去哪了？",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第305期_喵咖播客_给干细胞装导航活体微机器人会乱跑吗_2026-08-08",
+      "added_at": "2026-08-11T05:10:56+00:00",
+      "asset_overrides": {
+        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第305期_喵咖播客_给干细胞装导航活体微机器人会乱跑吗_2026-08-08/00_qc/platform_creative/audio_square.png",
+        "audio_rss": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第305期_喵咖播客_给干细胞装导航活体微机器人会乱跑吗_2026-08-08/07_deliver/音频——第305期_医用微机器人完成任务后去哪了.mp3",
+        "notes": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第305期_喵咖播客_给干细胞装导航活体微机器人会乱跑吗_2026-08-08/07_deliver/公众号——第305期_医用微机器人完成任务后去哪了.md",
+        "description": "第305期介绍由人源神经祖细胞与磁电纳米颗粒组成的NPCbots，解释外部磁场如何参与定位和局部刺激，并梳理斑马鱼与小鼠脊髓损伤模型中的运动改善信号，以及颗粒长期降解、清除或残留仍未解决的边界。",
+        "pub_date": "2026-08-08T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "306",
+      "title": "第306期｜个性化mRNA癌症疫苗五年随访解读",
+      "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第306期_喵咖播客_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5_2026-08-11",
+      "added_at": "2026-08-12T16:37:07+00:00",
+      "asset_overrides": {
+        "cover": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第306期_喵咖播客_癌症疫苗不是幻想：Moderna个性化mRNA疫苗5_2026-08-11/00_qc/platform_creative/audio_square.png"
+      }
     }
+  ],
+  "skipped_archived_records": [
+    "299"
   ]
 }
