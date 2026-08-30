@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:32:57+00:00",
+  "generated_at": "2026-08-30T17:14:14+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -292,6 +292,22 @@
         "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-308/ep308-audio.m4a",
         "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-308/ep308-cover.png"
       ]
+    },
+    {
+      "episode_dir": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29",
+      "episode_number": "310",
+      "title": "为什么止痛贴反而要先扎你一下？",
+      "audio": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/07_deliver/音频——第310期_为什么止痛贴反而要先扎你一下？.m4a",
+      "cover": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/00_qc/platform_creative/audio_square.png",
+      "notes": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/07_deliver/公众号——第310期_为什么止痛贴反而要先扎你一下？.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-310/ep310-audio.m4a",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-310/ep310-cover.png",
+      "audio_bytes": 7203512,
+      "audio_type": "audio/mp4",
+      "copied_files": [
+        "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-310/ep310-audio.m4a",
+        "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-310/ep310-cover.png"
+      ]
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -520,7 +536,20 @@
       "episode_dir": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23",
       "added_at": "2026-08-26T18:32:57+00:00",
       "asset_overrides": {
-        "cover": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/00_qc/platform_creative/audio_square.png"
+        "cover": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/00_qc/platform_creative/audio_square.png",
+        "audio_rss": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/07_deliver/音频——第308期_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭.m4a",
+        "notes": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/07_deliver/公众号——第308期_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭.md",
+        "description": "肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭：TETON-1是一项针对特发性肺纤维化的三期双盲随机安慰剂对照试验，共598名患者接受随机分组并至少用药一次，曲前列尼尔组和安慰剂组各299人。",
+        "pub_date": "2026-08-23T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "310",
+      "title": "为什么止痛贴反而要先扎你一下？",
+      "episode_dir": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29",
+      "added_at": "2026-08-30T17:14:00+00:00",
+      "asset_overrides": {
+        "cover": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/00_qc/platform_creative/audio_square.png"
       }
     }
   ],
