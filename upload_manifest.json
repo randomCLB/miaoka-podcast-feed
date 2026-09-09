@@ -1,10 +1,26 @@
 {
-  "generated_at": "2026-08-30T17:14:14+00:00",
+  "generated_at": "2026-09-09T07:21:50+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
   "stage_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public",
   "episodes": [
+    {
+      "episode_dir": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4",
+      "episode_number": "v2-01a075d411c1",
+      "title": "20年内FDA首次批准新防晒产品",
+      "audio": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4/07_deliver/音频——第v2-01a075d411c1期_20年内FDA首次批准新防晒产品.m4a",
+      "cover": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4/07_deliver/封面——第v2-01a075d411c1期_20年内FDA首次批准新防晒产品.png",
+      "notes": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4/07_deliver/公众号——第v2-01a075d411c1期_20年内FDA首次批准新防晒产品.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-v2-01a075d411c1/epv2-01a075d411c1-audio.m4a",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-v2-01a075d411c1/epv2-01a075d411c1-cover.png",
+      "audio_bytes": 10933527,
+      "audio_type": "audio/mp4",
+      "copied_files": [
+        "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-v2-01a075d411c1/epv2-01a075d411c1-audio.m4a",
+        "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-v2-01a075d411c1/epv2-01a075d411c1-cover.png"
+      ]
+    },
     {
       "episode_dir": "/Volumes/Seagate Fast HDD Drive/Sync/CLB/0 播客/第238期_喵咖播客_阿尔茨海默AI诊断_2026-03-11",
       "episode_number": "238",
@@ -282,7 +298,7 @@
       "episode_number": "308",
       "title": "第308期｜吸入曲前列尼尔减缓特发性肺纤维化肺功能下降",
       "audio": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/07_deliver/音频——第308期_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭.m4a",
-      "cover": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/00_qc/platform_creative/audio_square.png",
+      "cover": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/media/episode-308/ep308-cover.png",
       "notes": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/07_deliver/公众号——第308期_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-308/ep308-audio.m4a",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-308/ep308-cover.png",
@@ -298,7 +314,7 @@
       "episode_number": "310",
       "title": "为什么止痛贴反而要先扎你一下？",
       "audio": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/07_deliver/音频——第310期_为什么止痛贴反而要先扎你一下？.m4a",
-      "cover": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/00_qc/platform_creative/audio_square.png",
+      "cover": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/media/episode-310/ep310-cover.png",
       "notes": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/07_deliver/公众号——第310期_为什么止痛贴反而要先扎你一下？.md",
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-310/ep310-audio.m4a",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-310/ep310-cover.png",
@@ -536,7 +552,7 @@
       "episode_dir": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23",
       "added_at": "2026-08-26T18:32:57+00:00",
       "asset_overrides": {
-        "cover": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/00_qc/platform_creative/audio_square.png",
+        "cover": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/media/episode-308/ep308-cover.png",
         "audio_rss": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/07_deliver/音频——第308期_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭.m4a",
         "notes": "/Volumes/ORICO2T/CLB/0 播客/第308期_喵咖播客_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭_2026-08-23/07_deliver/公众号——第308期_肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭.md",
         "description": "肺纤维化新药：吸入曲前列尼尔让肺慢下来衰竭：TETON-1是一项针对特发性肺纤维化的三期双盲随机安慰剂对照试验，共598名患者接受随机分组并至少用药一次，曲前列尼尔组和安慰剂组各299人。",
@@ -549,7 +565,24 @@
       "episode_dir": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29",
       "added_at": "2026-08-30T17:14:00+00:00",
       "asset_overrides": {
-        "cover": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/00_qc/platform_creative/audio_square.png"
+        "cover": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/media/episode-310/ep310-cover.png",
+        "audio_rss": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/07_deliver/音频——第310期_为什么止痛贴反而要先扎你一下？.m4a",
+        "notes": "/Volumes/ORICO2T/CLB/0 播客/第310期_喵咖播客_为什么止痛贴反而要先扎你一下？_2026-08-29/07_deliver/公众号——第310期_为什么止痛贴反而要先扎你一下？.md",
+        "description": "## 一句话总结\n为什么止痛贴反而要先扎你一下？：TEAM贴片使用突出水凝胶约二百微米的柔性微针越过高阻抗角质层，并结合导电水凝胶形成表面并联电流路径，以降低界面阻抗和缓解针尖电流拥挤。\n## 核心要点\n1. TEAM由多层材料构成，包括聚酰亚胺微针、钛金导电层、导电聚合物与聚氨酯中间层以及导电水凝胶，而不是一张单纯的金属贴纸。\n2. 系统能够调节刺激频率、幅度和脉宽，并通过自适应恒流设计应对皮肤及环境条件变化。\n3. 在4.7 mA、100 Hz双相刺激的100 个周期测试中，漏电流低于10 μA，论文据此提供了特定实验条件下的电路安全证据。\n4. 论文在动物疼痛模型中比较了TEAM与凝胶电极，并考察脊髓神经活动、Fos表达、皮肤组织学及炎症因子等指标。\n## 引用文献\n- Wireless IoT-enabled microneedle electroceutical for personalized and connected pain management https://www.nature.com/articles/s41467-026-76527-y\n- Skin preparation-free, stretchable microneedle adhesive patches for reliable electrophysiological sensing and exoskeleton robot control https://pmc.ncbi.nlm.nih.gov/articles/PMC10793950/\n- A three-dimensional bipolar microneedle electrode array with local ground integrated at each sidewall for enhanced focal electric stimulation https://pmc.ncbi.nlm.nih.gov/articles/PMC12661015/\n- Wireless IoT-enabled microneedle electroceutical for personalized and connected pain management. https://pubmed.ncbi.nlm.nih.gov/42665587/\n- Progress in micro/nano sensors and nanoenergy for future AIoT-based smart home applications https://doi.org/10.1088/2632-959x/abf3d4\n- Advancements in Wearable and Implantable BioMEMS Devices: Transforming Healthcare Through Technology https://doi.org/10.3390/mi16050522\n## 免责声明\n> 本文仅供科普信息参考，不构成法律、医疗、投资或平台规则建议；具体事项请以适用规则和专业意见为准。",
+        "pub_date": "2026-08-29T00:00:00+00:00"
+      }
+    },
+    {
+      "episode_number": "v2-01a075d411c1",
+      "title": "20年内FDA首次批准新防晒产品",
+      "episode_dir": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4",
+      "added_at": "2026-09-09T06:32:55+00:00",
+      "asset_overrides": {
+        "audio_rss": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4/07_deliver/音频——第v2-01a075d411c1期_20年内FDA首次批准新防晒产品.m4a",
+        "cover": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4/07_deliver/封面——第v2-01a075d411c1期_20年内FDA首次批准新防晒产品.png",
+        "notes": "/Volumes/Josh Pcloud/CLB_Work/内阁/episodes/喵咖V2_喵咖V2_20年内FDA首次批准新防晒产品_01a075d4/07_deliver/公众号——第v2-01a075d411c1期_20年内FDA首次批准新防晒产品.md",
+        "description": "## 一句话总结\n20年内FDA首次批准新防晒活性成分：BEMT在海外使用多年，却从2005年申请到2026年才获准，连喷罐结构都要逐项过审。\n## 核心要点\n1. 2026年6月，FDA把BEMT加入美国非处方防晒专论，允许最高6%的浓度；这是FDA所称20年来首次新增防晒活性成分。\n2. BEMT并非刚出现的新化合物，相关美国申请可追溯到2005年；旧资料曾因安全性和有效性证据不足而未获接受，申请方后来沿新路径补交材料。\n3. 新的有效性证据按规定方法测试不同浓度配方，并以紫外线照射后皮肤出现红斑所需剂量计算SPF；符合要求的两项研究成为审评依据。\n4. 系统吸收研究纳入162名健康成年人，使用3种含6% BEMT的配方，每天涂4次、连续4天并采集血样；FDA综合人体、非临床及市场监测资料后认定规定条件下证据充分。\n5. 获准范围并不覆盖所有形态：部分泵式或推进剂与药液隔开的喷雾得到支持，推进剂直接接触药液的传统气雾剂因稳定性等资料不足未被纳入。\n## 引用文献\n- FDA：FDA Expands Sunscreen Options for the First Time in 20 Years https://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years\n## 免责声明\n> 本文仅供科普信息参考，不构成医疗建议；产品是否上市、具体配方与使用方法请以监管文件和产品标签为准。",
+        "pub_date": "2026-09-08T20:41:34+00:00"
       }
     }
   ],

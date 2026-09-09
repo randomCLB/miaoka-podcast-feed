@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话。喵咖播客用轻松对话聊科学、健康与技术，把论文、新闻和真实生活讲得更容易听懂。内容仅作科普交流，不构成医疗建议。</description><language>zh-cn</language><lastBuildDate>Sun, 30 Aug 2026 17:14:14 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"><channel><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link><description>读天书，说人话。喵咖播客用轻松对话聊科学、健康与技术，把论文、新闻和真实生活讲得更容易听懂。内容仅作科普交流，不构成医疗建议。</description><language>zh-cn</language><lastBuildDate>Wed, 09 Sep 2026 07:21:50 +0000</lastBuildDate><atom:link href="https://randomclb.github.io/miaoka-podcast-feed/feed.xml" rel="self" type="application/rss+xml"></atom:link><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:owner><itunes:name>喵咖播客</itunes:name><itunes:email>qinshankindle@163.com</itunes:email></itunes:owner><itunes:category text="Science"><itunes:category text="Life Sciences"></itunes:category></itunes:category><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png"></itunes:image><image><url>https://randomclb.github.io/miaoka-podcast-feed/media/show/show-cover.png</url><title>喵咖播客</title><link>https://randomclb.github.io/miaoka-podcast-feed/</link></image><item><title>20年内FDA首次批准新防晒产品</title><description>## 一句话总结
+20年内FDA首次批准新防晒活性成分：BEMT在海外使用多年，却从2005年申请到2026年才获准，连喷罐结构都要逐项过审。
+## 核心要点
+1. 2026年6月，FDA把BEMT加入美国非处方防晒专论，允许最高6%的浓度；这是FDA所称20年来首次新增防晒活性成分。
+2. BEMT并非刚出现的新化合物，相关美国申请可追溯到2005年；旧资料曾因安全性和有效性证据不足而未获接受，申请方后来沿新路径补交材料。
+3. 新的有效性证据按规定方法测试不同浓度配方，并以紫外线照射后皮肤出现红斑所需剂量计算SPF；符合要求的两项研究成为审评依据。
+4. 系统吸收研究纳入162名健康成年人，使用3种含6% BEMT的配方，每天涂4次、连续4天并采集血样；FDA综合人体、非临床及市场监测资料后认定规定条件下证据充分。
+5. 获准范围并不覆盖所有形态：部分泵式或推进剂与药液隔开的喷雾得到支持，推进剂直接接触药液的传统气雾剂因稳定性等资料不足未被纳入。
+## 引用文献
+- FDA：FDA Expands Sunscreen Options for the First Time in 20 Years https://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years
+## 免责声明
+&gt; 本文仅供科普信息参考，不构成医疗建议；产品是否上市、具体配方与使用方法请以监管文件和产品标签为准。</description><content:encoded>## 一句话总结
+20年内FDA首次批准新防晒活性成分：BEMT在海外使用多年，却从2005年申请到2026年才获准，连喷罐结构都要逐项过审。
+## 核心要点
+1. 2026年6月，FDA把BEMT加入美国非处方防晒专论，允许最高6%的浓度；这是FDA所称20年来首次新增防晒活性成分。
+2. BEMT并非刚出现的新化合物，相关美国申请可追溯到2005年；旧资料曾因安全性和有效性证据不足而未获接受，申请方后来沿新路径补交材料。
+3. 新的有效性证据按规定方法测试不同浓度配方，并以紫外线照射后皮肤出现红斑所需剂量计算SPF；符合要求的两项研究成为审评依据。
+4. 系统吸收研究纳入162名健康成年人，使用3种含6% BEMT的配方，每天涂4次、连续4天并采集血样；FDA综合人体、非临床及市场监测资料后认定规定条件下证据充分。
+5. 获准范围并不覆盖所有形态：部分泵式或推进剂与药液隔开的喷雾得到支持，推进剂直接接触药液的传统气雾剂因稳定性等资料不足未被纳入。
+## 引用文献
+- FDA：FDA Expands Sunscreen Options for the First Time in 20 Years https://www.fda.gov/news-events/press-announcements/fda-expands-sunscreen-options-first-time-20-years
+## 免责声明
+&gt; 本文仅供科普信息参考，不构成医疗建议；产品是否上市、具体配方与使用方法请以监管文件和产品标签为准。</content:encoded><pubDate>Tue, 08 Sep 2026 20:41:34 +0000</pubDate><guid isPermaLink="false">meowcast-v2-01a075d411c1</guid><enclosure url="https://randomclb.github.io/miaoka-podcast-feed/media/episode-v2-01a075d411c1/epv2-01a075d411c1-audio.m4a" length="10933527" type="audio/mp4"></enclosure><itunes:author>喵咖播客</itunes:author><itunes:explicit>false</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:image href="https://randomclb.github.io/miaoka-podcast-feed/media/episode-v2-01a075d411c1/epv2-01a075d411c1-cover.png"></itunes:image></item><item><title>第238期：AI 能提前发现阿尔茨海默病吗？</title><description>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
 提示：节目内容仅作科普交流，不构成医疗建议。如有认知衰退、记忆障碍或相关健康问题，请咨询专业医生。</description><content:encoded>这一期聊阿尔茨海默病的早期识别，以及人工智能在医学影像、语音特征和认知评估中的辅助诊断潜力。AI 能不能比人更早发现风险？它能帮医生做什么，又有哪些误判、隐私和伦理边界需要警惕？
 本期是喵咖播客的一期健康科技补档内容，适合对 AI 医疗、认知健康和老龄化议题感兴趣的听众。
