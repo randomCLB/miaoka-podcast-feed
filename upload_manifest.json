@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T07:21:50+00:00",
+  "generated_at": "2026-10-26T20:41:25.863914+00:00",
   "feed_url": "https://randomclb.github.io/miaoka-podcast-feed/feed.xml",
   "site_url": "https://randomclb.github.io/miaoka-podcast-feed/",
   "media_base_url": "https://randomclb.github.io/miaoka-podcast-feed/media/",
@@ -323,6 +323,22 @@
       "copied_files": [
         "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-310/ep310-audio.m4a",
         "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed/public/media/episode-310/ep310-cover.png"
+      ]
+    },
+    {
+      "episode_dir": "/Volumes/ORICO2T/CLB/0 播客/第320期_喵咖播客_少配了一瓶试剂，却为几十年后的抗癌药打开了门_2026-10-23",
+      "episode_number": "320",
+      "title": "少配一瓶试剂，却为几十年后的抗癌药打开大门 第320期",
+      "audio": "/Volumes/ORICO2T/CLB/0 播客/第320期_喵咖播客_少配了一瓶试剂，却为几十年后的抗癌药打开了门_2026-10-23/07_deliver/音频——第320期_少配了一瓶试剂，却为几十年后的抗癌药打开了门.m4a",
+      "cover": "/Volumes/ORICO2T/CLB/0 播客/第320期_喵咖播客_少配了一瓶试剂，却为几十年后的抗癌药打开了门_2026-10-23/00_qc/platform_creative/audio_square.png",
+      "notes": "/Volumes/ORICO2T/CLB/0 播客/第320期_喵咖播客_少配了一瓶试剂，却为几十年后的抗癌药打开了门_2026-10-23/07_deliver/公众号——第320期_少配了一瓶试剂，却为几十年后的抗癌药打开了门.md",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-320/ep320-audio.m4a",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-320/ep320-cover.png",
+      "audio_bytes": 13226861,
+      "audio_type": "audio/mp4",
+      "copied_files": [
+        "/tmp/meow320-rss-publish/media/episode-320/ep320-audio.m4a",
+        "/tmp/meow320-rss-publish/media/episode-320/ep320-cover.png"
       ]
     }
   ],
