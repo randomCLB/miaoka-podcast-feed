@@ -340,6 +340,14 @@
         "/tmp/meow320-rss-publish/media/episode-320/ep320-audio.m4a",
         "/tmp/meow320-rss-publish/media/episode-320/ep320-cover.png"
       ]
+    },
+    {
+      "episode_number": "321",
+      "guid": "meowcast-en-321",
+      "title": "A Spider Hanging at Midnight | Episode 321 (English)",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-321-en/ep321-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-321-en/ep321-cover.png",
+      "audio_bytes": 7393823
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -604,5 +612,6 @@
   ],
   "skipped_archived_records": [
     "299"
-  ]
+  ],
+  "episode_count": 25
 }
