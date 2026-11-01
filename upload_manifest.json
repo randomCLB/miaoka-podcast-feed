@@ -348,6 +348,14 @@
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-321-en/ep321-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-321-en/ep321-cover.png",
       "audio_bytes": 7393823
+    },
+    {
+      "episode_number": "322",
+      "guid": "meowcast-en-322",
+      "title": "Human tissue, new questions | Episode 322 (English)",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-322-en/ep322-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-322-en/ep322-cover.png",
+      "audio_bytes": 7229339
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -613,5 +621,5 @@
   "skipped_archived_records": [
     "299"
   ],
-  "episode_count": 25
+  "episode_count": 26
 }
