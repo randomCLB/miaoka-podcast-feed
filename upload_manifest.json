@@ -356,6 +356,14 @@
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-322-en/ep322-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-322-en/ep322-cover.png",
       "audio_bytes": 7229339
+    },
+    {
+      "episode_number": "323",
+      "guid": "meowcast-en-323",
+      "title": "Tame Foxes: Brain Clue | English 323",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-323-en/ep323-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-323-en/ep323-cover.png",
+      "audio_bytes": 14191244
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -621,5 +629,5 @@
   "skipped_archived_records": [
     "299"
   ],
-  "episode_count": 26
+  "episode_count": 27
 }
