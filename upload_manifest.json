@@ -364,6 +364,14 @@
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-323-en/ep323-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-323-en/ep323-cover.png",
       "audio_bytes": 14191244
+    },
+    {
+      "episode_number": "324",
+      "guid": "meowcast-en-324",
+      "title": "Stop Decay, Stain Teeth? | English 324",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-324-en/ep324-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-324-en/ep324-cover.png",
+      "audio_bytes": 8663939
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -629,5 +637,5 @@
   "skipped_archived_records": [
     "299"
   ],
-  "episode_count": 27
+  "episode_count": 28
 }
