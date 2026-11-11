@@ -372,6 +372,14 @@
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-324-en/ep324-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-324-en/ep324-cover.png",
       "audio_bytes": 8663939
+    },
+    {
+      "episode_number": "325",
+      "guid": "meowcast-en-325",
+      "title": "One Drug, Two Careers (English) | Episode 325",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-325-en/ep325-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-325-en/ep325-cover.png",
+      "audio_bytes": 5020523
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -637,5 +645,5 @@
   "skipped_archived_records": [
     "299"
   ],
-  "episode_count": 28
+  "episode_count": 29
 }
