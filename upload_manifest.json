@@ -380,6 +380,14 @@
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-325-en/ep325-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-325-en/ep325-cover.png",
       "audio_bytes": 5020523
+    },
+    {
+      "episode_number": "326",
+      "guid": "meowcast-en-326",
+      "title": "Heart Repair Needs an Off Switch | Ep 326 (English)",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-326-en/ep326-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-326-en/ep326-cover.png",
+      "audio_bytes": 10040975
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -645,5 +653,5 @@
   "skipped_archived_records": [
     "299"
   ],
-  "episode_count": 29
+  "episode_count": 30
 }
