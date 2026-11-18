@@ -388,6 +388,14 @@
       "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-326-en/ep326-audio.mp3",
       "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-326-en/ep326-cover.png",
       "audio_bytes": 10040975
+    },
+    {
+      "episode_number": "327",
+      "guid": "meowcast-en-327",
+      "title": "Mouse Placenta Builders Came from an Unexpected Side | Ep 327 (English)",
+      "audio_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-327-en/ep327-audio.mp3",
+      "cover_url": "https://randomclb.github.io/miaoka-podcast-feed/media/episode-327-en/ep327-cover.png",
+      "audio_bytes": 8095175
     }
   ],
   "host_dir": "/Volumes/ORICO2T/podcast data/pepline upload/miaoka-podcast-feed",
@@ -653,5 +661,5 @@
   "skipped_archived_records": [
     "299"
   ],
-  "episode_count": 30
+  "episode_count": 31
 }
